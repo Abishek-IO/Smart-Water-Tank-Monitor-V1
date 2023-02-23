@@ -1,6 +1,6 @@
 // Fill-in information from your Blynk Template here
-#define BLYNK_TEMPLATE_ID           "TMPLVh02T4Zf"
-#define BLYNK_DEVICE_NAME           "Water Tank Monitor"
+#define BLYNK_TEMPLATE_ID           "xxxxxxxxxxxxxxx"
+#define BLYNK_DEVICE_NAME           "xxxxxxxxxxxxxxx"
 
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
 
